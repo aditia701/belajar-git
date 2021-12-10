@@ -1,3 +1,4 @@
 # belajar-git
-
-ini file contoh belajar
+haloo..
+ini file contoh file  
+untuk belajar git belajar git 
